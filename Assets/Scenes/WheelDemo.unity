@@ -680,20 +680,20 @@ PrefabInstance:
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 2451940264981807385, guid: 6c262b57e364c774fa04e2f8cf3986e6, type: 3}
-      propertyPath: curve.m_Curve.Array.data[1].time
-      value: 0.25
+      propertyPath: newDirChosen.m_PersistentCalls.m_Calls.Array.size
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2451940264981807385, guid: 6c262b57e364c774fa04e2f8cf3986e6, type: 3}
-      propertyPath: curve.m_Curve.Array.data[1].inSlope
-      value: 7.4177675
+      propertyPath: puzzleFinished.m_PersistentCalls.m_Calls.Array.size
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2451940264981807385, guid: 6c262b57e364c774fa04e2f8cf3986e6, type: 3}
-      propertyPath: curve.m_Curve.Array.data[1].inWeight
-      value: 0.035413146
+      propertyPath: newDirChosen.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 2451940264981807385, guid: 6c262b57e364c774fa04e2f8cf3986e6, type: 3}
-      propertyPath: curve.m_Curve.Array.data[1].outSlope
-      value: 7.4177675
+      propertyPath: puzzleFinished.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 5937893941906283576, guid: 6c262b57e364c774fa04e2f8cf3986e6, type: 3}
       propertyPath: m_LocalPosition.x
